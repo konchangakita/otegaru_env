@@ -17,7 +17,7 @@ Python開発環境を自分のPC上に作りたい
 
 ## まずはDocker Desktopインストール
 ダウンロードはコチラ  
-https://www.docker.com/products/docker-desktop
+https://www.docker.com/products/docker-desktop  
 MAC：そのままインストール  
 Windows：仮想環境にインストールされるので、WSLをまずセットアップ  
   
