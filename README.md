@@ -2,7 +2,7 @@
 # おてがる開発環境を作ろうの会
 基本的には操作方法のみのご説明
 
-# Day1 まずは Docker Desktop インストール
+## Day1 まずは Docker Desktop インストール
 *対象者*  
 Dockerコンテナをとりあえずさわりたい  
  - 小難しい説明はしません  
@@ -15,7 +15,7 @@ Python開発環境を自分のPC上に作りたい
 ・Kubernetesマスターな人  
 ・Dockerfile書けるひと  
 
-# Day2 Docker であそぶ Python 入りのコンテナつくる
+## Day2 Docker であそぶ Python 入りのコンテナつくる
 *対象者*  
 Python 入り Dockerfile を作る  
 コンテナ内に python 開発環境を作る  
@@ -26,15 +26,8 @@ Dockerhubアカウントを作ろう
 自分 Python環境を持っている人  
 Dockerhub を使いこなしている人  
   
-# Day3 はじめての Jupyter Lab
+## Day3 はじめての Jupyter Lab
 
-# Day4 やっぱり VSCode あれもこれもプラグイン
+## Day4 やっぱり VSCode あれもこれもプラグイン
 
-# Day5 共同開発のための Git
-
-
-
-
-
-
-
+## Day5 共同開発のための Git
