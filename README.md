@@ -4,7 +4,7 @@
 
 # Day1 まずは Docker Desktop インストール
 *対象者*  
-Dockerコンテナをとりあえずさわりたい  
+Dockerコンテナをとりあえずさわりたい
  - 小難しい説明はしません  
 オリジナルコンテナを作る  
 Python開発環境を自分のPC上に作りたい  
@@ -35,6 +35,14 @@ Dockerhub を使いこなしている人
 
 
 
+Lint
+indent-rainbow インデントに色をつけて見やすくしれくれます
+Trailing Spaces 空白に色をつけて余計な空白の見落としを防ぎます
+Live share
 
 
+VS Codeエディタ入門
+https://zenn.dev/karaage0703/books/80b6999d429abc8051bb
 
+
+VS Code設定の同期
