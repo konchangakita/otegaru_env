@@ -50,4 +50,6 @@ VS Codeエディタ入門
 https://zenn.dev/karaage0703/books/80b6999d429abc8051bb
 
 
-VS Code設定の同期
+VS Code設定の同期 -追記なう
+
+
